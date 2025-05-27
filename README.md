@@ -2,7 +2,8 @@
 
 Q&A’s
 What does it do?
-It answers natural language questions e.g. How many Spitfires were produced in 1943?
+It answers natural language questions based on the csv e.g. How many Spitfires were produced in 1943?
+It has very basic functionality.
 
 What does it not do?
 It does not run SQL queries e.g. Show me the top 10 aircraft models by production
