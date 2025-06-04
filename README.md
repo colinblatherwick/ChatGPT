@@ -31,5 +31,5 @@ Could this replace standardised reporting?
 In theory yes. In practice, the creation of AI agents to answer questions requires a lot of 'prompt' work. We will talk about this next week.
 
 Why does it need 'prompt' work?
-In a nutshell, an LLM is a very powerful prediction engine that generate the most likely next word. It is not true intelligence.
+In a nutshell, an LLM is a very powerful prediction engine that generates the most likely next word. It is not true intelligence.
 This also means that on occasion it does require 'help' on how to process more complex questions.
