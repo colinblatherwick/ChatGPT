@@ -21,6 +21,8 @@ However, what we are trying to achieve is best executed using a more detailed pr
 
 **ChatCSVBotv1:**
 
+See ChatCSVBotv1.png for output
+
 Q&A's
 What does it do differently from ChatCSVv1?
 You can upload any csv and it will answer natural language questions based on the CSV.
