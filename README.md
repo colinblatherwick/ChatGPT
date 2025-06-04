@@ -17,3 +17,17 @@ Yes, we can help Chat GPT by writing a more detailed prompt.
 *Alternatively, if your dataset is small you can change the retriever element in #4 (search_kwargs={"k": 4}) e.g. {"k": 20} if your csv has 20 rows etc. 
 ChatGPT will now look through all 20 rows before returning an answer. 
 However, what we are trying to achieve is best executed using a more detailed prompt and storing data in a database.
+
+
+**ChatCSVBotv1:**
+
+Q&A's
+What does it do differently from ChatCSVv1?
+You can upload any csv and it will answer natural language questions based on the CSV.
+
+Could this replace standardised reporting?
+In theory yes. In practice, the creation of AI agents to answer questions requires a lot of 'prompt' work. We will talk about this next week.
+
+Why does it need 'prompt' work?
+In a nutshell, an LLM is a very powerful prediction engine that generate the most likely next word. It is not true intelligence.
+This also means that on occasion it does require 'help' on how to process more complex questions.
