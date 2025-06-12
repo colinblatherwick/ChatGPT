@@ -43,7 +43,7 @@ What does this do differently from ChatCSVv1 and ChatCSVBotv1?
 This allows us to connect to a SQL database, likely similar to the one you have at work or home.
 
 What happen without the prompt or a shorter prompt?
-The model may misunderstand when to execute a SQL request, for what type of questions and when to execute general knowledge question. It may also make other mistakes like adding the integers up and giving you the same sum for each row.
+The model may misunderstand when to execute a SQL request or general knowledge question, for what type of questions. It may make other mistakes e.g. adding the integers in the column headers up.
 LLM’s are getting better all the time so this answer will change. 
 
 So LLM’s will still require human input to build, train and guide.
