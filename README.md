@@ -52,3 +52,17 @@ Yes, we are not going anywhere just yet. This is not expected to change until ar
 Guess a lot of people on LinkedIn are wrong about what AI can do?
 Yes, don't get me started.
 
+
+**StreamlitChatGPTv1:**
+
+How do I get this working.
+
+Save it as a .py in the same repository as your python/jupiter notebook installation e.g. StreamlitChatGPTv1.py
+Open up a command prompt for windows/python or Anaconda prompt and run e.g. Anaconda Prompt
+
+
+
+
+
+
+
