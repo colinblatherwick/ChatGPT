@@ -62,7 +62,30 @@ Open up a command prompt for windows/python or Anaconda prompt and run e.g. Anac
 type 'streamlit run StreamlitChatGPTv1.py'
 
 
+**Prompt example for producing a polymer sales dataset using Exxon Mobil grades**
 
+You will produce a dataset for Exxon Mobil's Polymer division.
 
+The grades/products are:
+PP1013H1
+PP7032E2
+PP9054
+HD5001
+LD01820
+LL0825
 
+They sell into UN regions:
+East Asia (30%),
+South Asia (30%),
+South East Asia (20%)
+West Asia (15%)
+Australasia (5%)
 
+Create a dataset with the following column headers:
+Product, UN Region, Country, Organisation, Metric Tons, Price>
+
+The products should be proportionally sold, so roughly 16.67% each. 
+Randomly assign these to countries under the UN region above. Use the percentage next to the UN Region to split the sales e.g. 30% of all sales to East Asia.
+Come up with organisation names
+Metric tons should be random between 24.75 - 990 in multiples of 24.75.
+Price should be between 1,000 - 1,200
