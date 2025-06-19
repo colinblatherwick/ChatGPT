@@ -59,7 +59,7 @@ How do I get this working.
 
 Save it as a .py in the same repository as your python/jupiter notebook installation e.g. StreamlitChatGPTv1.py
 Open up a command prompt for windows/python or Anaconda prompt and run e.g. Anaconda Prompt
-
+type 'streamlit run StreamlitChatGPTv1.py'
 
 
 
