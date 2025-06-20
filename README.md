@@ -61,6 +61,12 @@ Save it as a .py in the same repository as your python/jupiter notebook installa
 Open up a command prompt for windows/python or Anaconda prompt and run e.g. Anaconda Prompt
 type 'streamlit run StreamlitChatGPTv1.py'
 
+Type in your ChatGPT API Key and your Supabase password.
+
+Ask a question/s
+
+You have now built your first app.
+
 
 **Prompt example for producing a polymer sales dataset using Exxon Mobil grades**
 
