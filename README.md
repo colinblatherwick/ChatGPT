@@ -70,7 +70,7 @@ You have now built your first app.
 
 **Prompt example for producing a polymer sales dataset using Exxon Mobil grades**
 
-You will produce a dataset for Exxon Mobil's Polymer division.
+You will produce a dataset for Exxon Mobil's Polymer division. You can find the csv with the rest of the files.
 
 The grades/products are:
 PP1013H1
