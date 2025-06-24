@@ -55,20 +55,26 @@ Yes, don't get me started.
 
 **StreamlitChatGPTv1:**
 
-How do I get this working.
+How do I get this working?
 
 Save it as a .py in the same repository as your python/jupiter notebook installation e.g. StreamlitChatGPTv1.py
-Open up a command prompt for windows/python or Anaconda prompt and run e.g. Anaconda Prompt
+Open up a command prompt for windows/python or Anaconda Prompt and run e.g. in Anaconda Prompt
+
 type 'streamlit run StreamlitChatGPTv1.py'
+You should now see your app, (Streamlit App.png)
 
 Type in your ChatGPT API Key and your Supabase password.
 
 Ask a question/s
+e.g.
+Streamlit App Output Q1.png
+Streamlit App Output Q2.png
 
-You have now built your first app.
-
+You have now built and run your first app.
 
 **Prompt example for producing a polymer sales dataset using Exxon Mobil grades**
+
+Prompt:
 
 You will produce a dataset for Exxon Mobil's Polymer division. You can find the csv with the rest of the files.
 
@@ -95,3 +101,5 @@ Randomly assign these to countries under the UN region above. Use the percentage
 Come up with organisation names
 Metric tons should be random between 24.75 - 990 in multiples of 24.75.
 Price should be between 1,000 - 1,200
+
+See ExxonMobil_Polymer_Dataset.csv
